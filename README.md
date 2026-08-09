@@ -39,4 +39,3 @@ Raw Data → Bronze → Silver → Gold
                   Analytics
 
 
-<img width="1255" height="780" alt="image" src="https://github.com/user-attachments/assets/050f5308-8a04-492d-b80a-58b1f2fb020c" />
